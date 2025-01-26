@@ -1,5 +1,5 @@
 # Hi there, I'm Lindsey Samson! 👋
-I’m Aspiring **Full-Stack Developer** passionate about building web applications and learning new technologies. Welcome to my GitHub profile!
+I’m Motivated **Full-Stack Developer** passionate about building web applications and learning new technologies. Welcome to my GitHub profile!
 
 ## **Technologies**
 <img src="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg" width="50">  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/css.svg" width="50">
