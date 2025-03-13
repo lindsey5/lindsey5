@@ -24,6 +24,10 @@ I’m Motivated **Full-Stack Developer** passionate about building web applicati
   <img  src="https://www.svgrepo.com/show/331488/mongodb.svg" style="width: 50px;">
 </div>
 
+## Projects:
+https://cloudpeakairlines.onrender.com
+https://ss-hotel.onrender.com/
+
 - ## 🤝 Connect with Me
 - **Email**: lindseysamson5@gmail.com
 - **Facebook**: https://www.facebook.com/profile.php?id=61560070075435
