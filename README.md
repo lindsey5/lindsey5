@@ -20,6 +20,9 @@ I’m Motivated **Full-Stack Developer** passionate about building web applicati
   <img  src="https://cdn.prod.website-files.com/6047a9e35e5dc54ac86ddd90/63065002ce321b529d375e07_2e261bcd.png" style="width: 50px;">
   <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/640px-Python_logo_01.svg.png" style="width: 50px;">
   <img  src="https://cdn.freelogovectors.net/wp-content/uploads/2022/06/mui-logo-freelogovectors.net_.png" style="width: 50px;">
+   <img  src="https://iconape.com/wp-content/files/ip/351824/png/socketio-logo.png" style="width: 50px;">
+  <img  src="https://brandslogos.com/wp-content/uploads/images/large/mysql-logo-1.png" style="width: 50px;">
+  <img  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F331488%2Fmongodb&psig=AOvVaw1CdduDkHVy1yD3VLHCWBC_&ust=1741937699295000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICn2uDFhowDFQAAAAAdAAAAABAE" style="width: 50px;">
 </div>
 
 - ## 🤝 Connect with Me
