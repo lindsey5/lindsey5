@@ -22,7 +22,7 @@ I’m Motivated **Full-Stack Developer** passionate about building web applicati
   <img  src="https://cdn.freelogovectors.net/wp-content/uploads/2022/06/mui-logo-freelogovectors.net_.png" style="width: 50px;">
    <img  src="https://iconape.com/wp-content/files/ip/351824/png/socketio-logo.png" style="width: 50px;">
   <img  src="https://brandslogos.com/wp-content/uploads/images/large/mysql-logo-1.png" style="width: 50px;">
-  <img  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F331488%2Fmongodb&psig=AOvVaw1CdduDkHVy1yD3VLHCWBC_&ust=1741937699295000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICn2uDFhowDFQAAAAAdAAAAABAE" style="width: 50px;">
+  <img  src="https://www.svgrepo.com/show/331488/mongodb.svg" style="width: 50px;">
 </div>
 
 - ## 🤝 Connect with Me
