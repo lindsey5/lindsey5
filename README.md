@@ -4,10 +4,10 @@ I’m Motivated **Full-Stack Developer** passionate about building web applicati
 ## Technologies:
 <br />
 <br />
-<img  src="https://clipground.com/images/html5-logo-2.png" style="width: 50px; height: 50px">
-<img  src="https://logospng.org/download/css-3/logo-css-3-2048.png" style="width: 50px; height: 50px">
-<img  src="https://logodix.com/logo/615103.png" style="width: 50px; height: 50px">
-<img  src="https://logospng.org/download/typescript/typescript-4096.png" style="width: 50px; height: 50px">
+<img  src="https://clipground.com/images/html5-logo-2.png" style="width: 50px;">
+<img  src="https://logospng.org/download/css-3/logo-css-3-2048.png" style="width: 50px;">
+<img  src="https://logodix.com/logo/615103.png" style="width: 50px;">
+<img  src="https://logospng.org/download/typescript/typescript-4096.png" style="width: 50px;">
 
 - ## 🤝 Connect with Me
 - **Email**: lindseysamson5@gmail.com
