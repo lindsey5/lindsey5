@@ -3,7 +3,6 @@ I’m Motivated **Full-Stack Developer** passionate about building web applicati
 
 ## Technologies:
 <br />
-<br />
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
   <img  src="https://clipground.com/images/html5-logo-2.png" style="width: 50px;">
   <img  src="https://logospng.org/download/css-3/logo-css-3-2048.png" style="width: 50px;">
