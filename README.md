@@ -25,8 +25,8 @@ I’m Motivated **Full-Stack Developer** passionate about building web applicati
 </div>
 
 ## Projects:
-https://cloudpeakairlines.onrender.com
-https://ss-hotel.onrender.com/
+- https://cloudpeakairlines.onrender.com
+- https://ss-hotel.onrender.com/
 
 - ## 🤝 Connect with Me
 - **Email**: lindseysamson5@gmail.com
