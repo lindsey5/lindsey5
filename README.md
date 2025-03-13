@@ -15,7 +15,7 @@ I’m Motivated **Full-Stack Developer** passionate about building web applicati
   <img  src="https://nextsoftware.io/files/images/logos/main/reactjs-logo.png" style="width: 50px;">
   <img  src="https://tse4.mm.bing.net/th?id=OIP.0UsojviMWbEFZIyJOG_bLAHaHa&pid=Api&P=0&h=220" style="width: 50px;">
   <img  src="https://logodix.com/logo/283001.png" style="width: 50px;">
-  <img  src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png">
+  <img  src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png style="width: 50px;">
 </div>
 
 - ## 🤝 Connect with Me
