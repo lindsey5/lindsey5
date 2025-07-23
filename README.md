@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lindsey Samson</h1>
-<h3 align="center">I’m Motivated Full-Stack Developer passionate about building web applications and learning new technologies. Welcome to my GitHub profile!</h3>
+<h3 align="center">I’m Motivated Aspiring Full-Stack Developer passionate about building web applications and learning new technologies. Welcome to my GitHub profile!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lindsey5&label=Profile%20views&color=0e75b6&style=flat" alt="lindsey5" /> </p>
 
