@@ -26,7 +26,7 @@
   <img  src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" style="width: 50px;">
   <img  src="https://global-uploads.webflow.com/6047a9e35e5dc54ac86ddd90/63064f20c8f8b96768fdb934_bb1c95f3.png" style="width: 50px;">
   <img  src="https://static.cdnlogo.com/logos/c/68/c-sharp-350x350.png" style="width: 50px;">  
-  <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/640px-Python_logo_01.svg.png" style="width: 50px;">
+  <img  src="https://icon-icons.com/icon/python/104452" style="width: 50px;">
   <img  src="https://cdn.freelogovectors.net/wp-content/uploads/2022/06/mui-logo-freelogovectors.net_.png" style="width: 50px;">
    <img  src="https://iconape.com/wp-content/files/ip/351824/png/socketio-logo.png" style="width: 50px;">
   <img  src="https://brandslogos.com/wp-content/uploads/images/large/mysql-logo-1.png" style="width: 50px;">
