@@ -42,13 +42,21 @@
   <img src="https://logospng.org/download/typescript/typescript-4096.png" width="50"/>
   <img src="https://www.loopple.com/img/tailwind-logo-blue.png" width="50"/>
   <img src="https://vectorseek.com/wp-content/uploads/2023/08/React-Logo-Vector.svg-.png" width="50"/>
+  <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="50"/>
   <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png" width="50"/>
   <img src="https://logodix.com/logo/283001.png" width="50"/>
   <img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" width="50"/>
   <img src="https://global-uploads.webflow.com/6047a9e35e5dc54ac86ddd90/63064f20c8f8b96768fdb934_bb1c95f3.png" width="50"/>
   <img src="https://static.cdnlogo.com/logos/c/68/c-sharp-350x350.png" width="50"/>
+  <img src="https://images.icon-icons.com/1508/PNG/512/python_104451.png" width="50"/>
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/fastapi-icon-72blnc5ihz9c30ltfruvm.png/fastapi-icon-sv7hsd0o3donlq26es2lr.png?_a=DATAiZAAZAA0" width="50"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmD38KsMgEwahtWc_Nfs5ZVktP9dBc36MUZA&s" width="50"/>
   <img src="https://brandslogos.com/wp-content/uploads/images/large/mysql-logo-1.png" width="50"/>
   <img src="https://www.svgrepo.com/show/331488/mongodb.svg" width="50"/>
+  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/redis-logo.png" width="50"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRRS42xTcnXMlC85s502uVAhzdGqq_23-bXA&s" width="50"/>
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/langchain-ipuhh4qo1jz5ssl4x0g2a.png/langchain-dp1uxj2zn3752pntqnpfu2.png?_a=DATAiZAAZAA0" width="50"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDNwuGGAwYtd0_8iwfTDux5skNIlUkWjncNQ&s" width="50"/>
 </p>
 
 
