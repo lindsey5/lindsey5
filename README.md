@@ -1,39 +1,68 @@
 <h1 align="center">Hi 👋, I'm Lindsey Samson</h1>
-<h3 align="center">I’m Motivated Aspiring Full-Stack Developer passionate about building web applications and learning new technologies. Welcome to my GitHub profile!</h3>
+<h3 align="center">
+  A motivated aspiring Full-Stack Developer passionate about building web applications and learning new technologies.
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lindsey5&label=Profile%20views&color=0e75b6&style=flat" alt="lindsey5" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lindsey5" alt="lindsey5" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://lindsey-samson.vercel.app/](https://lindsey-samson.vercel.app/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/people/lindsey/pfbid02ezq8zecuq31busdylbwtjnhgm8g7xyprnmbpwkkqsq2zqgwuu22z6shjyuwx5ulbl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/people/lindsey/pfbid02ezq8zecuq31busdylbwtjnhgm8g7xyprnmbpwkkqsq2zqgwuu22z6shjyuwx5ulbl/" height="30" width="40" /></a>
+<p align="center">
+  🚀 Welcome to my GitHub profile!
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img  src="https://clipground.com/images/html5-logo-2.png" style="width: 50px;">
-  <img  src="https://logospng.org/download/css-3/logo-css-3-2048.png" style="width: 50px;">
-  <img  src="https://cdn.freebiesupply.com/logos/large/2x/logo-javascript-logo-png-transparent.png" style="width: 50px;">
-  <img  src="https://logospng.org/download/typescript/typescript-4096.png" style="width: 50px;">
-  <img  src="https://www.loopple.com/img/tailwind-logo-blue.png" style="width: 50px;">
-  <img  src="https://vectorseek.com/wp-content/uploads/2023/08/React-Logo-Vector.svg-.png" style="width: 50px;">
-  <img  src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png" style="width: 50px;">
-  <img  src="https://tse4.mm.bing.net/th?id=OIP.0UsojviMWbEFZIyJOG_bLAHaHa&pid=Api&P=0&h=220" style="width: 50px;">
-  <img  src="https://logodix.com/logo/283001.png" style="width: 50px;">
-  <img  src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" style="width: 50px;">
-  <img  src="https://global-uploads.webflow.com/6047a9e35e5dc54ac86ddd90/63064f20c8f8b96768fdb934_bb1c95f3.png" style="width: 50px;">
-  <img  src="https://static.cdnlogo.com/logos/c/68/c-sharp-350x350.png" style="width: 50px;">  
-  <img  src="https://cdn.freelogovectors.net/wp-content/uploads/2022/06/mui-logo-freelogovectors.net_.png" style="width: 50px;">
-   <img  src="https://iconape.com/wp-content/files/ip/351824/png/socketio-logo.png" style="width: 50px;">
-  <img  src="https://brandslogos.com/wp-content/uploads/images/large/mysql-logo-1.png" style="width: 50px;">
-  <img  src="https://www.svgrepo.com/show/331488/mongodb.svg" style="width: 50px;">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lindsey5&label=Profile%20views&color=blueviolet&style=flat" alt="lindsey5" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lindsey5&show_icons=true&locale=en&layout=compact" alt="lindsey5" /></p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=lindsey5&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="lindsey5" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lindsey5&show_icons=true&locale=en" alt="lindsey5" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lindsey5&" alt="lindsey5" /></p>
+## 🌐 Portfolio
+🔗 Visit my website:  
+**[https://lindsey-samson.vercel.app/](https://lindsey-samson.vercel.app/)**
+
+---
+
+## 🤝 Connect With Me
+<p align="left">
+  <a href="https://www.facebook.com/people/lindsey/pfbid02ezq8zecuq31busdylbwtjnhgm8g7xyprnmbpwkkqsq2zqgwuu22z6shjyuwx5ulbl/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://clipground.com/images/html5-logo-2.png" width="50"/>
+  <img src="https://logospng.org/download/css-3/logo-css-3-2048.png" width="50"/>
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/logo-javascript-logo-png-transparent.png" width="50"/>
+  <img src="https://logospng.org/download/typescript/typescript-4096.png" width="50"/>
+  <img src="https://www.loopple.com/img/tailwind-logo-blue.png" width="50"/>
+  <img src="https://vectorseek.com/wp-content/uploads/2023/08/React-Logo-Vector.svg-.png" width="50"/>
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png" width="50"/>
+  <img src="https://logodix.com/logo/283001.png" width="50"/>
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" width="50"/>
+  <img src="https://global-uploads.webflow.com/6047a9e35e5dc54ac86ddd90/63064f20c8f8b96768fdb934_bb1c95f3.png" width="50"/>
+  <img src="https://static.cdnlogo.com/logos/c/68/c-sharp-350x350.png" width="50"/>
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/mysql-logo-1.png" width="50"/>
+  <img src="https://www.svgrepo.com/show/331488/mongodb.svg" width="50"/>
+</p>
+
+
+## 📊 GitHub Stats (Dark Theme)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lindsey5&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lindsey5&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lindsey5&theme=radical" alt="GitHub Streak" />
+</p>
+
+<h3 align="center">⭐ Thank you for visiting my profile! ⭐</h3>
