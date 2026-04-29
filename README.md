@@ -28,7 +28,13 @@
 ## 🤝 Connect With Me
 <p align="left">
   <a href="https://www.facebook.com/people/lindsey/pfbid02ezq8zecuq31busdylbwtjnhgm8g7xyprnmbpwkkqsq2zqgwuu22z6shjyuwx5ulbl/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/samson-lindsey-12b43929a/" target="_blank">
+    <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrP14K7jUi_ydDYy-S-YsSt7KbAS8DrbHvzA&s" alt="Facebook" height="40" width="40" />
   </a>
 </p>
 
