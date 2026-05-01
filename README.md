@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  🚀 Welcome to my GitHub profile!
+  Welcome to my GitHub profile!
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ---
 
-## 🌐 Portfolio
+## Portfolio
 🔗 Visit my website:  
 **[https://lindsey-samson.vercel.app/](https://lindsey-samson.vercel.app/)**
 
@@ -40,7 +40,7 @@
 
 ---
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 <p align="left">
   <img src="https://clipground.com/images/html5-logo-2.png" width="50"/>
   <img src="https://logospng.org/download/css-3/logo-css-3-2048.png" width="50"/>
@@ -66,7 +66,7 @@
 </p>
 
 
-## 📊 Stats
+## Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lindsey5&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
@@ -79,4 +79,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lindsey5&theme=radical" alt="GitHub Streak" />
 </p>
 
-<h3 align="center">⭐ Thank you for visiting my profile! ⭐</h3>
+<h3 align="center">Thank you for visiting my profile!</h3>
