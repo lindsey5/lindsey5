@@ -34,7 +34,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/samson-lindsey-12b43929a/" target="_blank">
-    <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrP14K7jUi_ydDYy-S-YsSt7KbAS8DrbHvzA&s" alt="Facebook" height="40" width="40" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40" />
   </a>
 </p>
 
@@ -65,18 +65,17 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDNwuGGAwYtd0_8iwfTDux5skNIlUkWjncNQ&s" width="50"/>
 </p>
 
+---
 
 ## Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lindsey5&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lindsey5&show_icons=true&theme=radical&hide_border=true" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lindsey5&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lindsey5&layout=compact&theme=radical&hide_border=true" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lindsey5&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lindsey5&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <h3 align="center">Thank you for visiting my profile!</h3>
