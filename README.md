@@ -27,7 +27,7 @@
 ```typescript
 const lindsey: Developer = {
   name:       "Lindsey Samson",
-  role:       "Aspiring Full-Stack Developer",
+  role:       "Junior Full-Stack Developer",
   location:   "Philippines 🇵🇭",
   portfolio:  "https://lindsey-samson.vercel.app/",
   passion:    ["Building web apps", "Clean code", "Learning new tech"],
