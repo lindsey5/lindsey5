@@ -26,11 +26,15 @@
 
 ```typescript
 const lindsey: Developer = {
-  name:       "Lindsey Samson",
-  role:       "Junior Full-Stack Developer",
-  location:   "Philippines 🇵🇭",
-  portfolio:  "https://lindsey-samson.vercel.app/",
-  passion:    ["Building web apps", "Clean code", "Learning new tech"],
+  name: "Lindsey Samson",
+  role: "Junior Full-Stack Developer",
+  location: "Philippines 🇵🇭",
+  portfolio: "https://lindsey-samson.vercel.app/",
+  passion: [
+    "Building web apps",
+    "Clean code",
+    "Learning new tech"
+  ],
   currentFocus: "Full-Stack Development"
 };
 ```
@@ -77,7 +81,6 @@ const lindsey: Developer = {
 ---
 
 <!-- Tech Stack -->
-
 <div align="center">
 
 ### 🛠️ Tech Stack
@@ -134,13 +137,27 @@ const lindsey: Developer = {
 
 <br/><br/>
 
-**Database**
+**Database & ORM**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="45" height="45" alt="Prisma"/>
+
+<br/><br/>
+
+**DevOps & Cloud**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="45" height="45" alt="GitHub Actions"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" height="45" alt="Nginx"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
 
 <br/><br/>
 
@@ -155,8 +172,6 @@ const lindsey: Developer = {
 <img src="https://tse3.mm.bing.net/th/id/OIP.z-SVkqTYNa5-a6pi5TOrSgHaHa?r=0&pid=Api&h=220&P=0" width="45" height="45" alt="LangChain"/>
 
 </div>
-
-
 
 ---
 
