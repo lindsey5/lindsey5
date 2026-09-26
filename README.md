@@ -149,7 +149,7 @@ const lindsey: Developer = {
 
 <br/><br/>
 
-**DevOps & Cloud**
+**DevOps**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
 &nbsp;
