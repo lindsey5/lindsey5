@@ -161,7 +161,7 @@ const lindsey: Developer = {
 
 <br/><br/>
 
-**Tools & AI**
+**Other Tools**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
 &nbsp;
